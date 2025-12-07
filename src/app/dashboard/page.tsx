@@ -319,7 +319,7 @@ export default function DashboardPage() {
               ) : (
                 <div className="space-y-2">
                   <p className="text-gray-500 text-lg">
-                    Nenhuma tarefa com status "{filter}" encontrada.
+                    Nenhuma tarefa com status {filter} encontrada.
                   </p>
                   <p className="text-sm text-gray-400">
                     Tente outro filtro ou crie uma nova tarefa.
@@ -355,5 +355,3 @@ export default function DashboardPage() {
     </div>
   );
 }
-
-
