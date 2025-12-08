@@ -132,10 +132,6 @@ projeto-final-web2/
    - `NEXTAUTH_URL`: URL da sua aplicação na Vercel (ex: https://seu-projeto.vercel.app)
    - `NEXTAUTH_SECRET`: O mesmo secret usado no `.env.local`
 
-3. **Deploy**
-   
-   A Vercel fará o deploy automaticamente. Aguarde alguns minutos e sua aplicação estará no ar!
-
 ### Configuração do MongoDB Atlas
 
 1. Crie uma conta gratuita em [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
@@ -198,13 +194,7 @@ Todas as rotas de API incluem tratamento de erros com try/catch:
 - ✅ Design responsivo
 - ✅ Acessibilidade básica
 
-## Licença
 
-Este projeto foi desenvolvido para fins educacionais.
-
----
-
-**Desenvolvido com ❤️ para a disciplina de Desenvolvimento Web II**
 
 
 
